@@ -5,7 +5,7 @@
 ### 1) Dynamic Programming (DP)
 - Array Description
 - Counting Towers
-- Minimal Grid Path
+- Minimal Grid Path (unsolved)
 - Removal Game
 
 ### 2) Graphs
